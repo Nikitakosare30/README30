@@ -1,5 +1,5 @@
 <h1>Tableau-Project</h1>
-Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic Analytics Projects.
+Learnt Data Visualization and Data Analytics with Tableau by solving 1 Realistic Analytics Projects.
 
 
 
