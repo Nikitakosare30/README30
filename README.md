@@ -11,7 +11,7 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link
 ## Screenshots
 ### 1. HR ANALYTICS DASHBOARD
 <img src="newimg.png"/>
-
+<img src="Screenshot (4).png"/>
 
 
 
