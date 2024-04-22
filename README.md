@@ -1,5 +1,5 @@
 # Tableau-Projects
-Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic Analytics Projects.
+Learnt Data Visualization and Data Analytics with Tableau by solving 1 Realistic Analytics Projects.
 
   <pre>
   1. HR ANALYTICS DASHBOARD           
