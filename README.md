@@ -10,7 +10,7 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link
 
 ## Screenshots
 ### 1. HR ANALYTICS DASHBOARD
-<img src="C:\Users\ykosa\Pictures\Screenshots\Screenshot (1).png" alt="SS 1"/>
+<img src=""C:\Users\ykosa\Pictures\Screenshots\newimg.png""/>
 
 
 
